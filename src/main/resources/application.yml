@@ -1,7 +1,7 @@
 spring:
   profiles:
-#    active: dev
-    include: dev, local
+    active: local
+#    include: dev, local
   #    include: // ???? ?? ??
 #    active: // 1?? ?? ??
   application:
